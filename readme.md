@@ -19,16 +19,15 @@ This project predicts housing prices using the California Housing dataset. It im
    ```bash
    git clone https://github.com/hasan-mahi/House-price-predictor.git
    cd House-price-predictor
-
    ```
 
 2. Install dependencies:
-
-````bash
-pip install -r requirements.txt
+   ````bash
+   pip install -r requirements.txt
+   ````
 
 
 3. Run the prediction app:
-```bash
-python predictor_gui.py
-````
+   ```bash
+   python predictor_gui.py
+   ````
